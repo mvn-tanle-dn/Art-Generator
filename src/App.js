@@ -1,12 +1,11 @@
-import React from 'react';
-import { BrowserRouter, Switch, Route } from 'react-router-dom';
+import React from "react";
+import { BrowserRouter, Switch, Route } from "react-router-dom";
 
-import HomeLite from './components/Home/HomeLite';
-import HomePro from './components/Home/HomePro';
-import ModeChooser from './components/ModeChooser/ModeChooser';
+import HomeLite from "./components/Home/HomeLite";
+import HomePro from "./components/Home/HomePro";
+import ModeChooser from "./components/ModeChooser/ModeChooser";
 
-
-import './App.css';
+import "./App.css";
 
 function App() {
   return (

@@ -1,17 +1,17 @@
 {
-  "name": "artistify.ai",
-  "homepage": "https://rahul-jha98.github.io/Artistify.ai/",
+  "name": "art-generator",
+  "homepage": "",
   "version": "1.0.0",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.10.2",
     "@material-ui/icons": "^4.9.1",
     "@material-ui/lab": "^4.0.0-alpha.56",
-    "@tensorflow/tfjs": "1.7.4",
+    "@tensorflow/tfjs": "^3.9.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
-    "react-scripts": "3.4.1"
+    "react-scripts": "^4.0.3"
   },
   "scripts": {
     "start": "react-scripts start",
